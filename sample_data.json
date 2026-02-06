@@ -1,0 +1,27 @@
+{
+  "user": {
+    "id": "u12345",
+    "name": "Jane Doe",
+    "email": "jane.doe@example.com",
+    "isActive": true,
+    "roles": ["editor", "contributor"],
+    "address": {
+      "street": "456 Oak Ave",
+      "city": "Anytown",
+      "zipCode": "90210"
+    },
+    "lastLogin": "2024-01-31T10:00:00Z"
+  },
+  "products": [
+    {
+      "productId": "P001",
+      "productName": "Wireless Mouse",
+      "price": 25.99
+    },
+    {
+      "productId": "P002",
+      "productName": "USB-C Cable",
+      "price": 9.99
+    }
+  ]
+}
